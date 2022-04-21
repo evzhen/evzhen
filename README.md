@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Evgeniy</h1>
 <!-- <img width="100" height="100" src="https://c.tenor.com/s5FIe_do3HIAAAAd/%D0%BA%D0%BE%D1%82-%D1%87%D0%B0%D0%B2%D0%BA%D0%B0%D0%B5%D1%82.gif"> -->
-# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://c.tenor.com/s5FIe_do3HIAAAAd/%D0%BA%D0%BE%D1%82-%D1%87%D0%B0%D0%B2%D0%BA%D0%B0%D0%B5%D1%82.gif) 
 ### Computer science student, IT news writer from Russia 🇷🇺
 
 <!--
