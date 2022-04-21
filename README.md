@@ -1,7 +1,8 @@
 ###  🔭 I’m currently working on ...
 
-<h1 align="center">Hi there, I'm Evgeniy</a> 
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">Hi there, I'm Evgeniy</h1>
+<img src="https://i.gifer.com/embedded/download/Rzg6.gif">
+
 
 <!--
 **evzhen/evzhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
